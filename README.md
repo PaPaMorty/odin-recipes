@@ -1,0 +1,1 @@
+Following The Odin Project assignmen to create a recipe website.
